@@ -12,7 +12,7 @@ $ pkg install git
 
 $ pkg upgrade
 
-$ git clone https://github.com/Al2VyN/FB-Guard.git
+$ git clone https://github.com/uchil404/FB-Guard.git
 
 $ cd FB-Guard
 
