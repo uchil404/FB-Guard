@@ -12,7 +12,7 @@ $ pkg install git
 
 $ pkg upgrade
 
-$ git clone https://github.com/Al2VyN/FB-Guard.git
+$ git clone https://github.com/uchil404/FB-Guard.git
 
 $ cd FB-Guard
 
@@ -20,5 +20,5 @@ $ php guard.php
 
 *When you typing a password, but it's hidden, just continue after it's finished, please click enter
 
-MadeByLove Hehe
+MadeBy:uchil404 Hehe
  
